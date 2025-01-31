@@ -86,7 +86,7 @@ export default function Team1() {
                                 <Tilt options={toltOptions} className="col-xl-3 col-lg-4 col-md-6 col-sm-6" data-aos="fadein" data-aos-duration={1600}>
                                     <div className="team-staf-item tilt bg2-clr text-center py-xxl-8 py-xl-6 py-5 px-xxl-7 px-xl-5 px-4">
                                         <div className="thumb">
-                                            <img src="/assets/img/new/Untitled design (3).jpg" alt="img" />
+                                            <img src="/assets/img/new/Untitled design (5).jpg" alt="img" />
                                         </div>
                                         <div className="content bb-border pb-xxl-4 pb-3 mb-xxl-6 mb-xl-4 mb-3">
                                             <h6 className="m-3 white-clr">

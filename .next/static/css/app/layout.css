@@ -1938,7 +1938,7 @@ footer {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: var(--theme);
     color: transparent;
-    transition: all 0.3s;
+    transition: all 0.5s;
     position: relative;
 }
 

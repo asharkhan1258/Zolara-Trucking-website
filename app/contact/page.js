@@ -20,7 +20,7 @@ export default function Contact() {
                                         Phone
                                     </h5>
                                     <span className="msub d-block mb-2">
-                                        Mobile :+923224110589
+                                        Mobile :+1 (832) 699-0491
                                     </span>
                                   
                                 </div>
@@ -34,7 +34,7 @@ export default function Contact() {
                                         Email
                                     </h5>
                                     <span className="msub d-block mb-2">
-                                        Info.company@gmail.com
+                                        Email : admin@zolaraconsulting.com
                                     </span>
                                    
                                 </div>
@@ -48,7 +48,7 @@ export default function Contact() {
                                     Address
                                     </h5>
                                     <span className="msub d-block mb-2">
-                                        Mobile : 85 Ketch Harbour
+                                        Address : 2601 BELLEFONTAINE ST APT C310 HOUSTON, TX 77025
                                     </span>
                                     
                                 </div>

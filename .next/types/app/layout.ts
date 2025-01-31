@@ -1,4 +1,4 @@
-// File: D:\work cyber\truck\xstarreact-10\xstar-package\documentation\Zolara-Trucking\app\layout.js
+// File: D:\work cyber\truck\New folder\Zolara-Trucking-website\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
