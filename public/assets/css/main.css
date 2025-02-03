@@ -832,6 +832,7 @@ footer {
     transition: all 0.4s;
     font-size: 16px !important;
     font-weight: 600;
+    text-decoration: none;
     text-transform: uppercase;
     color: var(--white);
 }
@@ -5235,6 +5236,7 @@ input.main-search-input::placeholder {
 
 .flink-items {
     transition: all 0.6s;
+    text-decoration: none;
 }
 
 .flink-items i {
