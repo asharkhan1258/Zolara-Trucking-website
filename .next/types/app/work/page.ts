@@ -1,4 +1,4 @@
-// File: D:\work cyber\truck\New folder\Zolara-Trucking-website\app\work\page.js
+// File: D:\teams work\tructing\Zolara-Trucking-website\app\work\page.js
 import * as entry from '../../../../app/work/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

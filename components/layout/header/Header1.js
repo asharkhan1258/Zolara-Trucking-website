@@ -12,8 +12,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                             <div className="d-lg-flex flex-xl-nowrap flex-wrap align-items-center justify-content-lg-between">
                                 <div className="d-flex align-items-center justify-content-between">
                                     <Link href="/" className="brand-logo">
-                                        <img className="img-fluid  d-lg-block d-none " width="60%" src="assets/img/Untitled design (7).png" alt="logo"  />
-                                        <img className="img-fluid d-lg-none d-block"  src="assets/img/Untitled design (7).png" alt="logo"  />
+                                        {/* <img className="img-fluid  d-lg-block d-none " width="60%" src="assets/img/Untitled design (7).png" alt="logo"  />
+                                        <img className="img-fluid d-lg-none d-block"  src="assets/img/Untitled design (7).png" alt="logo"  /> */}
+                                        <h4>Zolara Logistics LLC</h4>
                                     </Link>
                                     <div className="d-flex align-items-center gap-xxl-5 gap-5">
                                         <Link href="/javascript:void(0)" className="search-trigger search-icon d-lg-none d-block">
