@@ -12,6 +12,7 @@ import TextSLider2 from "@/components/sections/TextSLider2";
 import Watch1 from "@/components/sections/Watch1";
 import CustomCursor from "./work/page"; 
 import Work from "@/components/sections/Work";
+import Servicesh from "./sevicesh/page";
 
 export default function Home() {
 
@@ -23,6 +24,7 @@ export default function Home() {
                     <CustomCursor /> {/* Add CustomCursor component here */}
                     <Hero1 />
                     <Product1 />
+                    <Servicesh/>
                     <Service1 />
                     <CaseStudy1 />  
                     <Work/>

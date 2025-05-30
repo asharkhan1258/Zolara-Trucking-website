@@ -1298,10 +1298,7 @@ footer {
 }
 
 .header-section .brand-logo {
-    max-width: 300px;
-}
-.brand-logo h4{
-    font-size: 25px;
+    max-width: 265px;
 }
 
 @media (max-width: 1199px) {
@@ -1311,13 +1308,6 @@ footer {
 }
 
 @media (max-width: 767px) {
-    .header-section .brand-logo {
-    max-width: 300px;
-    
-}
-.brand-logo h4{
-    font-size: 20px;
-}
     .header-section .search-toggle-box {
         display: none;
         position: absolute;
@@ -1931,7 +1921,8 @@ footer {
 }
 
 .hero-v1-content h1 span {
-    font-size: 70px;
+    font-size: 45px;
+    width: 60%;
     line-height: 100%;
 }
 
@@ -4190,7 +4181,7 @@ input.main-search-input::placeholder {
 }
 
 .stitle {
-    font-size: 45px;
+    font-size: 35px;
 }
 
 .stitle span {
