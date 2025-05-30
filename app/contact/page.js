@@ -20,7 +20,7 @@ export default function Contact() {
                                         Phone
                                     </h5>
                                     <span className="msub d-block mb-2">
-                                        Mobile :+1 (832) 699-0491
+                                        Mobile :+1 (888) 868-8345
                                     </span>
                                   
                                 </div>
@@ -34,7 +34,7 @@ export default function Contact() {
                                         Email
                                     </h5>
                                     <span className="msub d-block mb-2">
-                                        Email : admin@zolaraconsulting.com
+                                        Email : sales@zolaraconsulting.com
                                     </span>
                                    
                                 </div>
@@ -48,7 +48,7 @@ export default function Contact() {
                                     Address
                                     </h5>
                                     <span className="msub d-block mb-2">
-                                        Address : 2601 BELLEFONTAINE ST APT C310 HOUSTON, TX 77025
+                                        Address : 501 N 4th St, Haines City, FL 33844-3507
                                     </span>
                                     
                                 </div>

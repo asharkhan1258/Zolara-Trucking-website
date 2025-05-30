@@ -14,7 +14,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                                     <Link href="/" className="brand-logo">
                                         {/* <img className="img-fluid  d-lg-block d-none " width="60%" src="assets/img/Untitled design (7).png" alt="logo"  />
                                         <img className="img-fluid d-lg-none d-block"  src="assets/img/Untitled design (7).png" alt="logo"  /> */}
-                                        <h4>Zolara Logistics LLC</h4>
+                                        <h2 className=" text-decoration-none  " >ZOLARA LOGISTICS LLC</h2>
                                     </Link>
                                     <div className="d-flex align-items-center gap-xxl-5 gap-5">
                                         <Link href="/javascript:void(0)" className="search-trigger search-icon d-lg-none d-block">
