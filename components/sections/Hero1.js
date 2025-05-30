@@ -13,7 +13,7 @@ export default function Hero1() {
                             <div className="d-flex align-items-sm-center align-items-end justify-content-between">
                                 <h1 className="white-clr text-uppercase">
                                     <p style={{color: "#E3ff04 "}}>Your Trusted Freight Partner</p>
-                                    <span className="d-block" data-aos="zoom-in-left" data-aos-duration={1800}>
+                                    <span className="d-block" style={{fontSize:"45px", width:"65%"}} data-aos="zoom-in-left" data-aos-duration={1800}>
                                     Enjoy the advantages of truckload shipping while only paying for the space you need
                                         {/* <span className="designers" data-text="ZOLARA" data-aos="zoom-in" data-aos-duration={2000}>ZOLARA </span> */}
                                     </span>
