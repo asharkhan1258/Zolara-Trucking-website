@@ -123,7 +123,7 @@ export default function Footer3() {
                             <div className="col-xxl-2 col-xl-3 col-lg-3 col-md-6 col-sm-6">
                                 <div className="footer-widget">
                                     <h5 className="footer-title mb-xxl-7 mb-xl-6 mb-5" data-aos="zoom-in-down" data-aos-duration={1900}>
-                                        Services
+                                        Help links
                                         <svg className="d-block mt-xxl-4 mt-3" width={83} height={2} viewBox="0 0 83 2" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <line y1={-1} x2={83} y2={-1} transform="matrix(1 0 0 -1 0 0)" stroke="url(#paint0_linear_6308_4305)" strokeWidth={2} />
                                             <defs>
@@ -134,37 +134,15 @@ export default function Footer3() {
                                             </defs>
                                         </svg>
                                     </h5>
-                                    <ul className="link-footer d-grid gap-xxl-5 gap-4" data-aos="zoom-in" data-aos-duration={1400}>
+                                    <ul className="link-footer d-grid gap-xxl-5 gap-4" data-aos="zoom-in" data-aos-duration={1400}>       
                                         <li>
-                                            <Link href="/" className="d-flex align-items-center gap-2 flink-items pra-clr">
-                                                <span className="ani-icons">
-                                                    <i className="fas fa-angle-double-right pra-clr" />
-                                                </span>
-                                                Full Truckload (FTL) Freight
-                                            </Link>
+                                            <Link href="/privacy" className="pra-clr">
+                                               Privacy Policy
+                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/" className="d-flex align-items-center gap-2 flink-items pra-clr">
-                                                <span className="ani-icons">
-                                                    <i className="fas fa-angle-double-right pra-clr" />
-                                                </span>
-                                                Less Than Truckload (LTL) Freight
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/" className="d-flex align-items-center gap-2 flink-items pra-clr">
-                                                <span className="ani-icons">
-                                                    <i className="fas fa-angle-double-right pra-clr" />
-                                                </span>
-                                                Supply Chain Logistics Support
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/" className="d-flex align-items-center gap-2 flink-items pra-clr">
-                                                <span className="ani-icons">
-                                                    <i className="fas fa-angle-double-right pra-clr" />
-                                                </span>
-                                                Expedited Freight Services
+                                            <Link href="/termscondition" className="pra-clr">
+                                            Terms &amp; Conditions
                                             </Link>
                                         </li>
                                     </ul>
@@ -173,7 +151,7 @@ export default function Footer3() {
                             <div className="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                                 <div className="footer-widget">
                                     <h5 className="footer-title mb-xxl-7 mb-xl-6 mb-5" data-aos="zoom-in-down" data-aos-duration={1900}>
-                                        Newsletter
+                                        Get In Touch
                                         <svg className="d-block mt-xxl-4 mt-3" width={83} height={2} viewBox="0 0 83 2" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <line y1={-1} x2={83} y2={-1} transform="matrix(1 0 0 -1 0 0)" stroke="url(#paint0_linear_6308_4306)" strokeWidth={2} />
                                             <defs>
@@ -182,26 +160,20 @@ export default function Footer3() {
                                                     <stop offset={1} stopColor="#E3FF04" stopOpacity={0} />
                                                 </linearGradient>
                                             </defs>
-                                        </svg>
+                                        </svg>  
                                     </h5>
+                                  
                                     <p className="pra-clr mb-xxl-7 mb-6" data-aos="zoom-in" data-aos-duration={1600}>
-                                        Sign up to seargin weekly newsletter to get the latest updates.
+                                       <strong>Email :</strong>sales@zolaraconsulting.com
                                     </p>
-                                    <form action="#" className="foote-formv1 d-flex align-items-center justify-content-between" data-aos="zoom-in-down" data-aos-duration={1200}>
-                                        <input type="email" placeholder="Enter Email Address" />
-                                        <button type="submit" className="themebg d-center rounded-1">
-                                            <svg width={25} height={24} viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <g clipPath="url(#clip0_6308_51)">
-                                                    <path d="M24.177 2.42216C24.294 1.87753 23.7601 1.4183 23.2392 1.61705L0.645685 10.242C0.512852 10.2927 0.398516 10.3825 0.317763 10.4995C0.23701 10.6165 0.193635 10.7553 0.193361 10.8975C0.193087 11.0397 0.235926 11.1786 0.316228 11.2959C0.396529 11.4133 0.510518 11.5035 0.643154 11.5547L6.99011 14.006V21.7269C6.9901 21.8851 7.04344 22.0387 7.14153 22.1628C7.23961 22.287 7.3767 22.3744 7.53062 22.411C7.68454 22.4476 7.84631 22.4312 7.98976 22.3645C8.13322 22.2977 8.24997 22.1846 8.32116 22.0433L10.9462 16.8342L17.3522 21.5884C17.7419 21.8776 18.302 21.6936 18.4438 21.2289C24.425 1.61859 24.1664 2.47143 24.177 2.42216ZM18.5999 4.8933L7.59357 12.7316L2.85793 10.9027L18.5999 4.8933ZM8.39634 13.8863L17.9901 7.05398C9.7348 15.7628 10.166 15.3044 10.13 15.3529C10.0765 15.4248 10.223 15.1444 8.39634 18.7692V13.8863ZM17.3896 19.8649L11.7508 15.6802L21.9465 4.92423L17.3896 19.8649Z" fill="black" />
-                                                </g>
-                                                <defs>
-                                                    <clipPath id="clip0_6308_51">
-                                                        <rect width={24} height={24} fill="white" transform="translate(0.193359)" />
-                                                    </clipPath>
-                                                </defs>
-                                            </svg>
-                                        </button>
-                                    </form>
+                                    <p className="pra-clr mb-xxl-7 mb-6" data-aos="zoom-in" data-aos-duration={1600}>
+                                       <strong>Number :</strong>+1 (888) 868-8345
+                                    </p>
+                                      <p className="pra-clr mb-xxl-7 mb-6" data-aos="zoom-in" data-aos-duration={1600}>
+                                       <strong>Address :</strong> 501 N 4th St, Haines City, FL 33844-3507
+                                    </p>
+                                    <img src="./assets/img/footer/caed.jpeg" className="img-fluid w-50" />
+                                    
                                 </div>
                             </div>
                         </div>
@@ -213,9 +185,15 @@ export default function Footer3() {
                             <p className="pra-clr">
                                 © All Copyright {new Date().getFullYear()} by <Link href="/" className="theme-clr">Zolara</Link>
                             </p>
-                            <Link href="/#" className="pra-clr">
-                                Terms &amp; Conditions Privacy Policy
+                            <p className="gap-4 d-flex">
+
+                            <Link href="/privacy" className="pra-clr">
+                                Privacy Policy
                             </Link>
+                              <Link href="/termscondition" className="pra-clr">
+                                Terms &amp; Conditions
+                            </Link>
+                            </p>
                         </div>
                     </div>
                 </div>
