@@ -96,7 +96,7 @@ export default function About() {
                             </div>
                             
                         </div> */}
-                        <TextSLider2/>
+                        {/* <TextSLider2/> */}
                             <Testimonial1/>
                     </section>
                 </div>

@@ -29,8 +29,8 @@ export default function Home() {
                     <CaseStudy1 />  
                     <Work/>
                     <Watch1 />
-                    <Team1 />
-                    <TextSLider2 />
+                    {/* <Team1 /> */}
+                    {/* <TextSLider2 /> */}
                     <Testimonial1 />
                  
                 </div>

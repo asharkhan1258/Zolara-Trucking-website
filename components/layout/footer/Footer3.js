@@ -164,13 +164,13 @@ export default function Footer3() {
                                     </h5>
                                   
                                     <p className="pra-clr mb-xxl-7 mb-6" data-aos="zoom-in" data-aos-duration={1600}>
-                                       <strong>Email :</strong>sales@zolaraconsulting.com
+                                       <strong>Address :</strong> 501 N 4th St, Haines City, FL 33844-3507
                                     </p>
                                     <p className="pra-clr mb-xxl-7 mb-6" data-aos="zoom-in" data-aos-duration={1600}>
-                                       <strong>Number :</strong>+1 (888) 868-8345
+                                       <strong>Call us at:</strong>+1 (888) 868-8345
                                     </p>
                                       <p className="pra-clr mb-xxl-7 mb-6" data-aos="zoom-in" data-aos-duration={1600}>
-                                       <strong>Address :</strong> 501 N 4th St, Haines City, FL 33844-3507
+                                       <strong>Write us at:</strong>sales@zolaraconsulting.com
                                     </p>
                                     <img src="./assets/img/footer/caed.jpeg" className="img-fluid w-50" />
                                     
