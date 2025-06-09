@@ -1,9 +1,5 @@
 {
   "/page": "app/page.js",
-  "/about/page": "app/about/page.js",
-  "/termscondition/page": "app/termscondition/page.js",
-  "/blog-grid/page": "app/blog-grid/page.js",
-  "/service/page": "app/service/page.js",
-  "/faq/page": "app/faq/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/privacy/page": "app/privacy/page.js",
+  "/termscondition/page": "app/termscondition/page.js"
 }
